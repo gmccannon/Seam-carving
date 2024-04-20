@@ -1,1 +1,1 @@
-Seam carving
+Seam carving 
